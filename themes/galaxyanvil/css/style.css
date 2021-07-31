@@ -559,7 +559,6 @@
     margin: .5em .1em;
 }
 
-.user-css-presentation .modal-dialog .modal-footer,
 .user-css-presentation .modal-dialog .modal-bottom,
 .user-css-presentation .modal-dialog .modal-header {
     border: none;
@@ -622,7 +621,6 @@
     border: none;
 }
 
-.user-css-presentation .panel-footer,
 .user-css-presentation .panel-bottom {
     margin: 10px -5px -3px -5px;
     padding: 10px 20px 13px 20px;
@@ -1609,7 +1607,6 @@
     color: var(--accent3);
 }
 
-.user-css-presentation .alert-info,
 .user-css-presentation .alert-blue {
     background-color: var(--info5Transparent);
     background: linear-gradient(to right, var(--info5Transparent), var(--info5), var(--info5Transparent));
@@ -1618,7 +1615,6 @@
     box-shadow: 0 0 2px 2px var(--info9);
 }
 
-.user-css-presentation .alert-info h5:first-of-type,
 .user-css-presentation .alert-blue h5:first-of-type {
     color: var(--info3);
 }
@@ -1651,7 +1647,6 @@
     color: var(--warning3);
 }
 
-.user-css-presentation .alert-danger,
 .user-css-presentation .alert-red {
     background-color: var(--danger5Transparent);
     background: linear-gradient(to right, var(--danger5Transparent), var(--danger5), var(--danger5Transparent));
@@ -1660,7 +1655,6 @@
     box-shadow: 0 0 2px 2px var(--danger9);
 }
 
-.user-css-presentation .alert-danger h5:first-of-type,
 .user-css-presentation .alert-red h5:first-of-type {
     color: var(--danger3);
 }
@@ -1978,7 +1972,6 @@
     color: var(--accent8Muted);
 }
 
-.user-css-presentation .modal-dialog .modal-footer,
 .user-css-presentation .modal-dialog .modal-bottom,
 .user-css-presentation .modal-dialog .modal-header {
     background-color: var(--accent4Transparent);
@@ -2089,10 +2082,8 @@
 }
 
 .user-css-presentation .panel .panel-heading,
-.user-css-presentation .panel .panel-footer,
 .user-css-presentation .panel .panel-bottom,
 .user-css-presentation .panel-secondary .panel-heading,
-.user-css-presentation .panel-secondary .panel-footer,
 .user-css-presentation .panel-secondary .panel-bottom {
     background-color: var(--default7Transparent);
     background: linear-gradient(to right, var(--default7Transparent), var(--default7), var(--default7Transparent));
