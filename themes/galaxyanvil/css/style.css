@@ -4219,6 +4219,10 @@
     display: none;
 }
 
+.user-css-presentation .world-editor-link {
+    display: none !important;
+}
+
 .user-css-presentation .comment-box .line-spacer, .user-css-presentation .panel-greatgm .line-spacer {
     display: block;
 }
