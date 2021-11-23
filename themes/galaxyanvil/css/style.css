@@ -491,6 +491,155 @@
     --default3MutedTransparent: var(--default3Transparent); /* Used for body background */
 }
 
+/* Color Theme: Navosian */
+.user-css-presentation .navosian, .user-css-presentation .tag-theme-navosian {
+    /* Default Color: Gray */
+    --default1: #211111;
+    --default2: #322222;
+    --default3: #433333;
+    --default4: #544444;
+    --default5: #655555;
+    --default6: #766666;
+    --default7: #877777;
+    --default8: #988888;
+    --default9: #A99999;
+    --defaultA: #BAAAAA;
+    --defaultB: #CBBBBB;
+    --defaultC: #DCCCCC;
+    --defaultD: #EDDDDD;
+    --defaultE: #FEEEEE;
+
+    --default1Muted: #211111;
+    --default2Muted: #322222;
+    --default3Muted: #433333;
+    --default4Muted: #544444;
+    --default5Muted: #655555;
+    --default6Muted: #766666;
+    --default7Muted: #877777;
+    --default8Muted: #988888;
+    --default9Muted: #A99999;
+    --defaultAMuted: #BAAAAA;
+    --defaultBMuted: #CBBBBB;
+    --defaultCMuted: #DCCCCC;
+    --defaultDMuted: #EDDDDD;
+    --defaultEMuted: #FEEEEE;
+
+    --default1Transparent: rgba(33, 17, 17, 0.5);
+    --default2Transparent: rgba(50, 34, 34, 0.5);
+    --default3Transparent: rgba(67, 51, 51, 0.5);
+    --default4Transparent: rgba(84, 68, 68, 0.5);
+    --default5Transparent: rgba(101, 85, 85, 0.5);
+    --default6Transparent: rgba(118, 102, 102, 0.5);
+    --default7Transparent: rgba(135, 119, 119, 0.5);
+    --default8Transparent: rgba(152, 136, 136, 0.5);
+    --default9Transparent: rgba(169, 153, 153, 0.5);
+    --defaultATransparent: rgba(186, 170, 170, 0.5);
+    --defaultBTransparent: rgba(203, 187, 187, 0.5);
+    --defaultCTransparent: rgba(220, 204, 204, 0.5);
+    --defaultDTransparent: rgba(237, 221, 221, 0.5);
+    --defaultETransparent: rgba(254, 238, 238, 0.5);
+
+    /* Primary Color: Yellow */
+    --primary1: #191500;
+    --primary2: #282200;
+    --primary3: #3A3000;
+    --primary4: #493D00;
+    --primary5: #5B4C00;
+    --primary6: #6D5B00;
+    --primary7: #7C6800;
+    --primary8: #8E7700;
+    --primary9: #A08500;
+    --primaryA: #AF9200;
+    --primaryB: #C1A100;
+    --primaryC: #D3B000;
+    --primaryD: #E2BD00;
+    --primaryE: #F4CC00;
+
+    --primary1Muted: #19170C;
+    --primary2Muted: #2B281D;
+    --primary3Muted: #3D3A2F;
+    --primary4Muted: #4C4A3E;
+    --primary5Muted: #5E5C51;
+    --primary6Muted: #706D62;
+    --primary7Muted: #7F7D74;
+    --primary8Muted: #918F84;
+    --primary9Muted: #A3A197;
+    --primaryAMuted: #B2B0A4;
+    --primaryBMuted: #C4C2B8;
+    --primaryCMuted: #D6D4C9;
+    --primaryDMuted: #E5E3DA;
+    --primaryEMuted: #F7F5ED;
+
+    --primary1Transparent: rgba(25, 21, 0, 0.5);
+    --primary2Transparent: rgba(40, 34, 0, 0.5);
+    --primary3Transparent: rgba(58, 48, 0, 0.5);
+    --primary4Transparent: rgba(73, 61, 0, 0.5);
+    --primary5Transparent: rgba(91, 76, 0, 0.5);
+    --primary6Transparent: rgba(109, 91, 0, 0.5);
+    --primary7Transparent: rgba(124, 104, 0, 0.5);
+    --primary8Transparent: rgba(142, 119, 0, 0.5);
+    --primary9Transparent: rgba(160, 133, 0, 0.5);
+    --primaryATransparent: rgba(175, 146, 0, 0.5);
+    --primaryBTransparent: rgba(193, 161, 0, 0.5);
+    --primaryCTransparent: rgba(211, 176, 0, 0.5);
+    --primaryDTransparent: rgba(226, 189, 0, 0.5);
+    --primaryETransparent: rgba(244, 204, 0, 0.5);
+
+    /* Accent Color: Red */
+    --accent1: #1C0000;
+    --accent2: #2B0000;
+    --accent3: #3D0000;
+    --accent4: #4C0000;
+    --accent5: #5E0000;
+    --accent6: #700000;
+    --accent7: #7F0000;
+    --accent8: #910000;
+    --accent9: #A30000;
+    --accentA: #B20000;
+    --accentB: #C40000;
+    --accentC: #D60000;
+    --accentD: #E50000;
+    --accentE: #F70000;
+
+    --accent1Muted: #1C0E0E;
+    --accent2Muted: #2D1E1E;
+    --accent3Muted: #3F3131;
+    --accent4Muted: #4F4040;
+    --accent5Muted: #605252;
+    --accent6Muted: #726464;
+    --accent7Muted: #827575;
+    --accent8Muted: #938585;
+    --accent9Muted: #A59898;
+    --accentAMuted: #B5A6A6;
+    --accentBMuted: #C6BABA;
+    --accentCMuted: #D8C9C9;
+    --accentDMuted: #E8DCDC;
+    --accentEMuted: #F9EDED;
+
+    --accent1Transparent: rgba(28, 0, 0, 0.5);
+    --accent2Transparent: rgba(43, 0, 0, 0.5);
+    --accent3Transparent: rgba(61, 0, 0, 0.5);
+    --accent4Transparent: rgba(76, 0, 0, 0.5);
+    --accent5Transparent: rgba(94, 0, 0, 0.5);
+    --accent6Transparent: rgba(112, 0, 0, 0.5);
+    --accent7Transparent: rgba(127, 0, 0, 0.5);
+    --accent8Transparent: rgba(145, 0, 0, 0.5);
+    --accent9Transparent: rgba(163, 0, 0, 0.5);
+    --accentATransparent: rgba(178, 0, 0, 0.5);
+    --accentBTransparent: rgba(196, 0, 0, 0.5);
+    --accentCTransparent: rgba(214, 0, 0, 0.5);
+    --accentDTransparent: rgba(229, 0, 0, 0.5);
+    --accentETransparent: rgba(247, 0, 0, 0.5);
+
+    /* Specialty Colors */
+    --midPrimaryAccentA: #B14900; /* Used for h3 */
+    --midPrimaryAccent8: #910000; /* Used for h3 small */
+    --midDefaultAccentA: #B65555; /* Used for h5 */
+    --midDefaultAccent8: #954444; /* Used for h5 small */
+    --defaultAFullTransparent: rgba(170, 170, 186, 0); /* Used for row border groups */
+    --default3MutedTransparent: var(--default3Transparent); /* Used for body background */
+}
+
 /* Color Theme: Drakari */
 .user-css-presentation .drakari, .user-css-presentation .tag-theme-drakari, .user-css-presentation .category-ea4be012-9100-4767-85ab-be1e9f3ad706, .user-css-presentation .category-3bf6bdc2-817f-4056-be26-e358879cdc5d {
     /* Default Color: Muted rED (Hue 0) */
