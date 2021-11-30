@@ -4365,7 +4365,7 @@
 }
 
 .user-css-presentation .line-spacer {
-    display: none;
+    display: none !important;
 }
 
 .user-css-presentation .world-editor-link {
