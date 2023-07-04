@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [1.6.0] - UNRELEASED
+### Added
+ - Support for WorldAnvil's `articletoc` bbcode.
+   - Additional styling when used within `.panel-toc .panel-body` containers.
 
 
 ## [1.5.0] - 2021-10-13
