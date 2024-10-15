@@ -4524,6 +4524,14 @@
     display: none;
 }
 
+.user-css-presentation div.articletoc .article-toc-link.article-toc-indent-3,
+.user-css-presentation .panel-toc div.articletoc .article-toc-link.article-toc-indent-3,
+.user-css-presentation div.articletoc .article-toc-link.article-toc-indent-4,
+.user-css-presentation .panel-toc div.articletoc .article-toc-link.article-toc-indent-4 {
+    display: none;
+}
+
+
 /* RPG System Colorsets */
 .user-css-presentation .panel-starfinder {
     background-color: var(--info3Transparent);
