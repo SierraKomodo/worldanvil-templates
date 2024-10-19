@@ -4532,6 +4532,16 @@
 }
 
 
+/* Global Sections */
+.user-css-presentation .global-section {
+    display: none;
+}
+
+.user-css-presentation .global-extended-lore .global-section.extended-lore {
+    display: initial;
+}
+
+
 /* RPG System Colorsets */
 .user-css-presentation .panel-starfinder {
     background-color: var(--info3Transparent);
